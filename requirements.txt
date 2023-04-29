@@ -2,8 +2,8 @@ pandas
 streamlit
 plotly.express
 altair
-matplotlib.pyplot
+matplotlib
 seaborn
 numpy
-pycaret.regression
+pycaret
 vega_datasets
